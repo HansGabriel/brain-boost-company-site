@@ -23,24 +23,19 @@ content_blocks:
     title: Book your preferred
     title_suffix: Tutor
     description: >-
-      We have an extensive library of pre-written sales emails, proven marketing
-      templates, and more to get you started on your next project.
+      To reserve a specific teacher for a future learning session. This typically involves selecting a tutor based on their availability, subject matter expertise, and teaching style.
     alternate_style: false
     numbers:
-      - prefix: $
-        number: 200
-        suffix: m
-        text: Venture capital raised
       - prefix:
-        number: 2016
+        number: 2023
         suffix:
         text: Established in
       - prefix:
-        number: 40
-        suffix: +
+        number: 5
+        suffix:
         text: Amazing team members
       - prefix:
-        number: 4322
+        number: 10
         suffix: +
         text: Active users and growing
   - _bookshop_name: home/video
@@ -48,86 +43,77 @@ content_blocks:
     image_alt: Thumbnail for video
     video_url: https://vimeo.com/45830194
   - _bookshop_name: global/header
-    title: "Sendit "
+    title: "Tutorium "
     title_suffix: Features
     remove_top_padding: true
     description: >-
-      Our platform offers the most advanced features including automated email
-      content creation, dynamic personalization, and customer segmentation.
+      Tutorium is a software application designed to connect students with tutors online. It typically provides a platform for scheduling sessions, communicating with tutors, and accessing educational materials
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-one.png
     image_alt: Message inbox
-    title: Email Campaign in one minute
+    title: Finding qualified tutors
     description: >-
-      Send an email campaign with one click, in just minutes. Automate your
-      emails and content, while keeping the human touch.
+      With advanced filtering, students can find their needed teachers in a wide array of subjects
     button:
       link: /signup
-      text: Try This Free
+      text: Book A Tutor
     reversed: false
   - _bookshop_name: global/feature
-    image: /images/feature/feature-card-two.png
-    image_alt: Visitor chart
-    title: See every Lead in one Place
+    image: /images/hero/dashboard.png
+    image_alt: Vision
+    title: Tutor Qualifications
     description: >-
-      Sales analytics and automation made simple: see every sales lead in one
-      place, regardless of where it came from.
+      To ensure the security of the learners, the tutors undergo a qualification process to ensure the mastery of their subject and are of good character
     button:
       link: /signup
-      text: Try This Free
+      text: Register as Tutor
     reversed: true
-  - _bookshop_name: global/feature
-    image: /images/feature/feature-card-three.png
-    image_alt: File upload
-    title: 100% free uploads
-    description: >-
-      Sendit is used by everyone from small businesses to fortune 500 companies.
-      Browse our collection of email marketing templates and start sending
-      beautiful emails in minutes.
-    button:
-      link: /signup
-      text: Try This Free
-    reversed: false
+  # - _bookshop_name: global/feature
+  #   image: /images/feature/feature-card-three.png
+  #   image_alt: File upload
+  #   title: 100% free uploads
+  #   description: >-
+  #     Sendit is used by everyone from small businesses to fortune 500 companies.
+  #     Browse our collection of email marketing templates and start sending
+  #     beautiful emails in minutes.
+  #   button:
+  #     link: /signup
+  #     text: Try This Free
+  #   reversed: false
   - _bookshop_name: global/testimonial
-    title: Grow your mind with
-    title_suffix: us
+    title: The
+    title_suffix: Team
     description: >-
-      Customers from around the world are building game changing email marketing
-      campaigns.
+      Meet the team behind Tutorium
     slider:
-      - image: /images/testimonial/logo-2.jpg
-        image_alt: Profile photo of Pete Fish
-        author: George Jose Abaygar
+      - image: /images/members/george.jpeg
+        image_alt: Profile photo of George
+        author: George Abaygar
         designation: CEO at BBC
         message: >-
-          Sendit has taken Clear Appeal to the next level with it's beautiful
-          targetted email campaigns.
-      - image: /images/testimonial/logo-3.jpg
-        image_alt: Profile photo of Dolly Watson
-        author: Dolly Watson
-        designation: Digital Marketer at Time Cop
+          Tutorium has revolutionized the way students find tutors with its user-friendly app that connects learners with top-notch tutors in just a few clicks.
+      - image: /images/members/hans.jpeg
+        image_alt: Profile photo of Hans
+        author: Hans Daduya
+        designation: CTO at BBC
         message: >-
-          Wow, what a difference Sendit has made. My customers are more engaged
-          than ever.
-      - image: /images/testimonial/logo-4.jpg
-        image_alt: Profile photo of Simon Moriarty
-        author: Simon Moriarty
-        designation: Head of Marketing at Pinnacle Mines
+          Tutorium  is changing the game for students seeking academic help, delivering a powerful app that makes finding the perfect tutor a breeze and ensures success in every subject.
+      - image: /images/members/marc.jpg
+        image_alt: Profile photo of Marc Anthony Narte
+        author: Marc Narte
+        designation: CMO at BBC
         message: >-
-          I can't imagine life without Sendit now, I have no idea how we were
-          surviving before.
-      - image: /images/testimonial/logo-4.jpg
-        image_alt: Profile photo of Simon Moriarty
-        author: Simon Moriarty
-        designation: Head of Marketing at Pinnacle Mines
+          Tutorium has revolutionized the way students find tutors with its user-friendly app that connects learners with top-notch tutors in just a few clicks.
+      - image: /images/members/alexandrei.png
+        image_alt: Profile photo of Alexandrei
+        author: Alexandrei Dalumpines
+        designation: CFO at BBC
         message: >-
-          I can't imagine life without Sendit now, I have no idea how we were
-          surviving before.
-      - image: /images/testimonial/logo-4.jpg
-        image_alt: Profile photo of Simon Moriarty
-        author: Simon Moriarty
-        designation: Head of Marketing at Pinnacle Mines
+          With Tutorium, students can say goodbye to academic struggles as the app's intuitive platform connects them with highly qualified tutors tailored to their specific learning needs.
+      - image: /images/members/gian.jpg
+        image_alt: Profile photo of Gian Baguna
+        author: Gian Baguna
+        designation: COO at BBC
         message: >-
-          I can't imagine life without Sendit now, I have no idea how we were
-          surviving before.
+          Tutorium has elevated the tutoring experience for students everywhere, offering a seamless app that simplifies the tutor search process and provides access to a range of expert tutors.
 ---

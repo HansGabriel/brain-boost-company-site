@@ -9,7 +9,7 @@ export default function Footer({}) {
             <div className="col-12 col-lg-4 me-auto order-2 order-lg-1">
               <div className="footer-logo mt-7 mt-md-0">
                 <a href={footer.logo_url} className="">
-                  <img src={footer.logo} alt="logo" />
+                  <img src={footer.logo} width="120" height="120" alt="logo" />
                 </a>
                 <p>
                   © Copyright <span>{new Date().getFullYear()}</span>{" "}

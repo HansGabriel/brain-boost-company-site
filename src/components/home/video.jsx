@@ -4,7 +4,7 @@ export default function HomeVideo({ block, dataBinding }) {
       className="video pb-xxl-22 pb-lg-18 pb-12"
       data-cms-bind={dataBinding}
     >
-      <div className="container">
+      {/* <div className="container">
         <div className="row">
           <div className="col-lg-10 mx-auto">
             <div className="banner">
@@ -39,7 +39,7 @@ export default function HomeVideo({ block, dataBinding }) {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
     </section>
   );
 }
